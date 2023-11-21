@@ -1,3 +1,7 @@
+# Important Rocsys!
+
+This branch handles creating internal releases for Rocsys only until the point that the official embassy project is released on crates.io, in the interest of keeping this forked release process simple and automated, the versions may get out of sync with the official versions. Be warned!
+
 # Embassy
 
 Embassy is the next-generation framework for embedded applications. Write safe, correct and energy-efficient embedded code faster, using the Rust programming language, its async facilities, and the Embassy libraries.
