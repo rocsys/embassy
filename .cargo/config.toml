@@ -1,0 +1,2 @@
+[registries]
+rocsys-rust = { index = "https://dl.cloudsmith.io/basic/rocsys/rust/cargo/index.git" }
